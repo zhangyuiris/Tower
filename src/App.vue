@@ -32,25 +32,6 @@ body {
   transition: background-color 2s;
 }
 
-a {
-  text-decoration: none;
-  color: #515151;
-  margin: 0 4px;
-}
-
-a:hover {
-  color: #303030;
-}
-
-.btn {
-  display: inline-block;
-  border: 2px solid #515151;
-  font-size: 20px;
-  padding: 10px 16px;
-  margin: 10px;
-  border-radius: 30px;
-}
-
 #app {
   display: flex;
   justify-content: center;

@@ -14,7 +14,12 @@ module.exports = {
     'comma-dangle': ['error', 'never'],
     'no-unused-vars': ['error', {
       vars: 'all', args: 'none', ignoreRestSiblings: false, caughtErrors: 'none'
-    }]
+    }],
+    "max-line-length": [true, {
+        "limit": 120,
+        "ignore-pattern": "^import [^,]+ from |^export | implements"
+      }
+    ],
   },
   parserOptions: {
     parser: 'babel-eslint'

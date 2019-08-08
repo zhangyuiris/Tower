@@ -1,29 +1,12 @@
-# tower
+# Tower
 
-## Project setup
-```
-npm install
-```
+Learn by Practice.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 待完成功能
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- [ ] 英雄攻击
+- [ ] 怪物掉血
+- [ ] 两者不能重合
+- [ ] 属性自定义
+- [ ] 道具掉落
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
